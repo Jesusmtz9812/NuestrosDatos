@@ -1,0 +1,4 @@
+Nombre:
+Edad:
+Pasatiempo:
+comiida favorita
